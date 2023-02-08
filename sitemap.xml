@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://chenshuohuang.github.io/2023/02/08/daily_20230208/</loc>
+    <loc>http://chenshuohuang.github.io/categories/index.html</loc>
     
     <lastmod>2023-02-08</lastmod>
     
@@ -11,18 +11,27 @@
   </url>
   
   <url>
-    <loc>http://chenshuohuang.github.io/2023/02/06/welcome/</loc>
+    <loc>http://chenshuohuang.github.io/tags/index.html</loc>
     
-    <lastmod>2023-02-06</lastmod>
+    <lastmod>2023-02-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://chenshuohuang.github.io/2023/02/06/hello-world/</loc>
+    <loc>http://chenshuohuang.github.io/about/index.html</loc>
     
-    <lastmod>2023-02-06</lastmod>
+    <lastmod>2023-02-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://chenshuohuang.github.io/2023/02/08/daily_20230208/</loc>
+    
+    <lastmod>2023-02-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -38,12 +47,26 @@
 
   
   <url>
-    <loc>http://chenshuohuang.github.io/tags/%E6%97%A5%E5%BF%97/</loc>
+    <loc>http://chenshuohuang.github.io/tags/%E6%B2%9F%E9%80%9A/</loc>
+    <lastmod>2023-02-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chenshuohuang.github.io/tags/%E4%BA%BA%E6%80%A7/</loc>
     <lastmod>2023-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
 
+  
+  <url>
+    <loc>http://chenshuohuang.github.io/categories/%E6%88%90%E9%95%BF%E6%84%9F%E6%82%9F/</loc>
+    <lastmod>2023-02-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
