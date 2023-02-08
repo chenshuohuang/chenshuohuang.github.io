@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>title</title>
+  <title>chenshuohuang的个人博客</title>
   
   <subtitle>subtitle</subtitle>
   <link href="http://chenshuohuang.github.io/atom.xml" rel="self"/>
   
   <link href="http://chenshuohuang.github.io/"/>
-  <updated>2023-02-06T14:37:28.955Z</updated>
+  <updated>2023-02-08T14:26:31.981Z</updated>
   <id>http://chenshuohuang.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日志_20230208</title>
+    <link href="http://chenshuohuang.github.io/2023/02/08/daily_20230208/"/>
+    <id>http://chenshuohuang.github.io/2023/02/08/daily_20230208/</id>
+    <published>2023-02-08T14:25:31.000Z</published>
+    <updated>2023-02-08T14:26:31.981Z</updated>
+    
+    <content type="html"><![CDATA[<p>每个人的人性不一样，顺应人性代表的是要顺应不同人不一样的人性，而不是普罗大众的人性。这是今天感悟到的，不用去对任何人好，但是要去研究每一次冲突背后的原因，如何去化解。学习化解冲突的能力和技巧。意识到沟通技巧的重要性。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;每个人的人性不一样，顺应人性代表的是要顺应不同人不一样的人性，而不是普罗大众的人性。这是今天感悟到的，不用去对任何人好，但是要去研究每一次冲突背后的原因，如何去化解。学习化解冲突的能力和技巧。意识到沟通技巧的重要性。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="日志" scheme="http://chenshuohuang.github.io/tags/%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
   
   <entry>
     <title>welcome</title>
