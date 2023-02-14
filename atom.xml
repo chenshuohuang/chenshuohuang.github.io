@@ -6,7 +6,7 @@
   <link href="http://chenshuohuang.github.io/atom.xml" rel="self"/>
   
   <link href="http://chenshuohuang.github.io/"/>
-  <updated>2023-02-12T15:47:35.698Z</updated>
+  <updated>2023-02-14T15:15:11.311Z</updated>
   <id>http://chenshuohuang.github.io/</id>
   
   <author>
@@ -15,6 +15,59 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>20230214</title>
+    <link href="http://chenshuohuang.github.io/2023/02/14/daily/20230214/"/>
+    <id>http://chenshuohuang.github.io/2023/02/14/daily/20230214/</id>
+    <published>2023-02-14T15:36:30.000Z</published>
+    <updated>2023-02-14T15:15:11.311Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天一天忙于生产问题的复盘和沟通，有收获，不过代价有点大：900 多万的借款本该拒绝而通过了。</p><p>收获有：</p><ol><li>让业务重视特征变量监控；</li><li>发现开发流程上、生产验收流程上的漏洞，通过优化流程机制来保障，将历史输入项跑批验证强制加在发版验证流程中；</li><li>认清人为不可控因素，挖掘程序替代人为的验证处理方案。</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;今天一天忙于生产问题的复盘和沟通，有收获，不过代价有点大：900 多万的借款本该拒绝而通过了。&lt;/p&gt;
+&lt;p&gt;收获有：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;让业务重视特征变量监控；&lt;/li&gt;
+&lt;li&gt;发现开发流程上、生产验收流程上的漏洞，通过优化流程机制来保障，将历史输入项跑批验证强</summary>
+      
+    
+    
+    
+    <category term="成长感悟" scheme="http://chenshuohuang.github.io/categories/%E6%88%90%E9%95%BF%E6%84%9F%E6%82%9F/"/>
+    
+    
+    <category term="生产问题" scheme="http://chenshuohuang.github.io/tags/%E7%94%9F%E4%BA%A7%E9%97%AE%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>20230213</title>
+    <link href="http://chenshuohuang.github.io/2023/02/13/daily/20230213/"/>
+    <id>http://chenshuohuang.github.io/2023/02/13/daily/20230213/</id>
+    <published>2023-02-13T15:36:30.000Z</published>
+    <updated>2023-02-14T15:06:13.355Z</updated>
+    
+    <content type="html"><![CDATA[<p>在生产问题面前就能看出一个人的工作态度。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;在生产问题面前就能看出一个人的工作态度。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="成长感悟" scheme="http://chenshuohuang.github.io/categories/%E6%88%90%E9%95%BF%E6%84%9F%E6%82%9F/"/>
+    
+    
+    <category term="生产问题" scheme="http://chenshuohuang.github.io/tags/%E7%94%9F%E4%BA%A7%E9%97%AE%E9%A2%98/"/>
+    
+  </entry>
   
   <entry>
     <title>20230212</title>
