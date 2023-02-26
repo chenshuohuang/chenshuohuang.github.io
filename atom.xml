@@ -6,7 +6,7 @@
   <link href="http://chenshuohuang.github.io/atom.xml" rel="self"/>
   
   <link href="http://chenshuohuang.github.io/"/>
-  <updated>2023-02-19T03:45:59.011Z</updated>
+  <updated>2023-02-22T06:43:29.320Z</updated>
   <id>http://chenshuohuang.github.io/</id>
   
   <author>
@@ -15,6 +15,53 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>20230222</title>
+    <link href="http://chenshuohuang.github.io/2023/02/22/daily/20230222/"/>
+    <id>http://chenshuohuang.github.io/2023/02/22/daily/20230222/</id>
+    <published>2023-02-22T15:36:30.000Z</published>
+    <updated>2023-02-22T06:43:29.320Z</updated>
+    
+    
+    
+    
+    <category term="成长感悟" scheme="http://chenshuohuang.github.io/categories/%E6%88%90%E9%95%BF%E6%84%9F%E6%82%9F/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>20230221</title>
+    <link href="http://chenshuohuang.github.io/2023/02/21/daily/20230221/"/>
+    <id>http://chenshuohuang.github.io/2023/02/21/daily/20230221/</id>
+    <published>2023-02-21T15:36:30.000Z</published>
+    <updated>2023-02-26T02:12:06.891Z</updated>
+    
+    <content type="html"><![CDATA[<p>对负责的领域有时考虑的点不太周到，特别是其他团队沟通时，容易无主见，需要训练沟通思考能力。</p><p>通过税切自研问题引发的思考：</p><ol><li>评估最坏影响面（评估领域层面的影响、评估部门层面影响）；</li><li>第一时间向上反馈，特别是决策权，让领导进行决策；</li><li>做为业务开发，对该领域业务负责，任何对该领域有影响的变更都需要识别并知会业务。</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;对负责的领域有时考虑的点不太周到，特别是其他团队沟通时，容易无主见，需要训练沟通思考能力。&lt;/p&gt;
+&lt;p&gt;通过税切自研问题引发的思考：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;评估最坏影响面（评估领域层面的影响、评估部门层面影响）；&lt;/li&gt;
+&lt;li&gt;第一时间向上反馈，特别是决策权，让领</summary>
+      
+    
+    
+    
+    <category term="成长感悟" scheme="http://chenshuohuang.github.io/categories/%E6%88%90%E9%95%BF%E6%84%9F%E6%82%9F/"/>
+    
+    
+    <category term="思考力" scheme="http://chenshuohuang.github.io/tags/%E6%80%9D%E8%80%83%E5%8A%9B/"/>
+    
+    <category term="决策权" scheme="http://chenshuohuang.github.io/tags/%E5%86%B3%E7%AD%96%E6%9D%83/"/>
+    
+    <category term="负责，最坏影响面" scheme="http://chenshuohuang.github.io/tags/%E8%B4%9F%E8%B4%A3%EF%BC%8C%E6%9C%80%E5%9D%8F%E5%BD%B1%E5%93%8D%E9%9D%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>20230218</title>
