@@ -6,7 +6,7 @@
   <link href="http://chenshuohuang.github.io/atom.xml" rel="self"/>
   
   <link href="http://chenshuohuang.github.io/"/>
-  <updated>2023-02-22T06:43:29.320Z</updated>
+  <updated>2023-03-15T00:51:06.526Z</updated>
   <id>http://chenshuohuang.github.io/</id>
   
   <author>
@@ -15,6 +15,57 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>从生产问题中学到什么</title>
+    <link href="http://chenshuohuang.github.io/2023/03/15/technology/learn-from-prod-problem/"/>
+    <id>http://chenshuohuang.github.io/2023/03/15/technology/learn-from-prod-problem/</id>
+    <published>2023-03-15T00:36:30.000Z</published>
+    <updated>2023-03-15T00:51:06.526Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://chenshuohuang.github.io/img/learn-from-prod-problem/gratisogarphy-retro-camera-dial-free-stock-photo.jpg"></p><p>稍有工作经验的人，特别是做技术研发的同学，对生产问题肯定不陌生，有那么句口号：<strong>没有出现过生产问题，要么一开始就牛逼，要么一直很辣鸡</strong>，至少到现在，工作了快 7 年，真没见过一个没出现过生产问题的研发同学，既然可以说是必经历的，那么我们就需要先想想，遇到生产问题，我们该怎么处理，并且怎么从中学习到些有用的知识。</p><p>生产问题一般会从几个方面发现：业务验证、系统监控、开发巡检等。不管生产问题从哪发现，当收到生产问题的消息时，我总结了如下的处理步骤，按步骤走保证少走弯路。</p><ol><li><strong>知会（知会上级）；</strong></li><li><strong>排查（排查定位）；</strong></li><li><strong>解决（解决方案）；</strong></li><li><strong>复盘（复盘反思）。</strong></li></ol><p>接下来根据步骤展开说一下。</p><h3 id="知会"><a href="#知会" class="headerlink" title="知会"></a>知会</h3><p>遇到生产问题时，发现问题第一时间要识别问题的<strong>严重程度</strong>，并告知直属领导或导师，特别是当你是新人或者对问题严重程度识别不准确的时候，更需要老司机带带你，帮你把关问题，甚至协助你处理问题；另外一点最重要的是，知会领导是<strong>让领导做决策</strong>，决策协调问题处理的资源，决策知会到哪些人等等，领导想的会更全面。</p><p>有些同学会习惯于遇到生产问题，立马进行排查定位，希望能马上解决问题，然后忽略了优先知会上级这点。这里我讲一个这么做的例子给大家体会一下。</p><p>有次，业务部门反馈个生产问题给到具体开发同学，开发同学没有反馈给直属领导，就埋头定位了半天没解决，业务部门领导直接找上技术部门领导进行投诉，技术部门领导一脸懵逼，不清楚发生了什么事，想想如果你是技术部门领导，会多尴尬。技术部门领导接下来就会去问所属技术团队负责人，可能技术团队负责人也一脸懵逼，都不清楚，最终问团队内部才得以知晓情况。假如一开始就把生产问题从下往上一层层主动反馈呢？就不会出现这种尴尬的场面，甚至有可能都不存在业务领导投诉技术领导的事情，可能技术领导一知道这个生产问题，识别到问题的严重程度，就直接找业务领导沟通。你看看截然不同的后果，如果你遇到生产问题，记得第一时间<strong>知会</strong>。</p><h3 id="排查"><a href="#排查" class="headerlink" title="排查"></a>排查</h3><p>做好知会这一步后，就可以把心先放下来，认真投入到问题排查定位。当然很重要的一点，要管理好处理时间的预期，给领导一个大概预期时间，在预期时间内排查不出来要和领导反馈，甚至请求资源协助。</p><h3 id="解决"><a href="#解决" class="headerlink" title="解决"></a>解决</h3><p>一般把问题排查完后，解决方案就会跟着浮出水面。最先浮出水面的解决方案不一定是最优方案，因为第一个解决方案，往往考虑的点往往是比较单方面，只从开发角度思考，我们需要更广泛地、更深度地再进行挖掘最优方案，比如结合业务的诉求，是想更快解决还是更彻底解决。通常需要考虑出多个解决方案，比如临时解决方案、长期解决方案等等。</p><h3 id="复盘"><a href="#复盘" class="headerlink" title="复盘"></a>复盘</h3><p>这一步也是很多人会忽略的，很多同学把问题解决后，就不了了之。我们从在生产问题学习的维度上来看，到了第三步，只学习到了处理该问题的能力，其实没有挖掘生产问题的价值，而<strong>复盘</strong>这一步就是让大家深度挖掘生产问题，举一反三，从中学习到更多。</p><p>这里给大家介绍平时我对生产问题复盘的思路，首先会从该问题去思考需求开发过程中，有哪个环节出现了什么漏洞导致了这个生产问题出现，该漏洞是由什么引发的，是规范没涉及、还是流程机制不完善、还是人为问题，需要怎么解决，通过<strong>生产问题 -&gt; 引发的漏洞 -&gt; 漏洞原因 -&gt; 填补漏洞</strong>这个过程，挖掘出生产问题的学习价值，从而避免再次掉入同一个坑。</p><p><img src="https://chenshuohuang.github.io/img/learn-from-prod-problem/01.png"></p><p>其次会从问题发现源出发思考，比如是业务发现的问题，思考为什么开发没有及时发现，需要怎样才能第一时间发现出问题，是监控需要完善，还是巡检需要仔细，还是投产验证疏忽了哪些点等等。</p><p>复盘的维度可以有很多，这里只指出复盘的 2 个维度，比如还可以是对处理问题的过程进行复盘，原本可以花 1 个小时快速处理的，为什么花了 2 个小时，是在过程中有哪些地方走了什么弯路，还是对流程不熟悉等等，后续如何避免。</p><p>复盘后还有一点很重要，就是列<strong>跟进项</strong>，不列就没有具体改善措施，时间已久就啥都没有改善。跟进项需要明确：什么人在什么时间需要做什么事，这三要素很重要，落实到具体的人、具体的时间和具体的事。</p><p>以上就是从技术角度介绍了我在生产问题处理跟进步骤，如果你有更好更全面的点补充，欢迎留言一起探讨交流。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://chenshuohuang.github.io/img/learn-from-prod-problem/gratisogarphy-retro-camera-dial-free-stock-photo.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;稍有工作经</summary>
+      
+    
+    
+    
+    <category term="技术" scheme="http://chenshuohuang.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="生产问题" scheme="http://chenshuohuang.github.io/tags/%E7%94%9F%E4%BA%A7%E9%97%AE%E9%A2%98/"/>
+    
+    <category term="复盘" scheme="http://chenshuohuang.github.io/tags/%E5%A4%8D%E7%9B%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>20230306</title>
+    <link href="http://chenshuohuang.github.io/2023/03/06/daily/20230306/"/>
+    <id>http://chenshuohuang.github.io/2023/03/06/daily/20230306/</id>
+    <published>2023-03-06T15:36:30.000Z</published>
+    <updated>2023-03-06T00:46:58.389Z</updated>
+    
+    <content type="html"><![CDATA[<p>突然意识到，我的管理做法有些问题，想做一个事情，会去研究怎么做，直到研究完怎么做后再告诉下面的人执行，其实，有些事情可以只有想法，怎么做下放给底下的人，这样才能提高团队参与团队建设的积极性。</p><p>有想法 -&gt; 怎么做 -&gt; 执行</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;突然意识到，我的管理做法有些问题，想做一个事情，会去研究怎么做，直到研究完怎么做后再告诉下面的人执行，其实，有些事情可以只有想法，怎么做下放给底下的人，这样才能提高团队参与团队建设的积极性。&lt;/p&gt;
+&lt;p&gt;有想法 -&amp;gt; 怎么做 -&amp;gt; 执行&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="成长感悟" scheme="http://chenshuohuang.github.io/categories/%E6%88%90%E9%95%BF%E6%84%9F%E6%82%9F/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>20230222</title>
