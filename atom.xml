@@ -6,7 +6,7 @@
   <link href="http://chenshuohuang.github.io/atom.xml" rel="self"/>
   
   <link href="http://chenshuohuang.github.io/"/>
-  <updated>2023-03-21T00:52:18.369Z</updated>
+  <updated>2023-03-29T01:11:28.789Z</updated>
   <id>http://chenshuohuang.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>20230329</title>
+    <link href="http://chenshuohuang.github.io/2023/03/29/daily/20230329/"/>
+    <id>http://chenshuohuang.github.io/2023/03/29/daily/20230329/</id>
+    <published>2023-03-29T01:36:30.000Z</published>
+    <updated>2023-03-29T01:11:28.789Z</updated>
+    
+    <content type="html"><![CDATA[<p>这几天看了张丽俊的《组织的力量》课程，感受特别深的有几点：</p><ol><li>企业文化在企业发展过程中的作用，比想象中大很多，很多习以为常的事情其实背后是有很多故事或者执行过程中遇到很多挑战，甚至都需要很多很强硬的实施方式。联想到之前在推动 git flow 代码分支规范时，遇到挺多阻力，在前公司大家默认习以为常的事情，到一个没有接触过的团队推动会有很多反对声音，在推广到其他团队时，也会有很多阻力，大家觉得这流程太复杂了。虽然没有在整个公司推广，但至少在团队内部已经形成规范，并且运行得很好，内部已经知道这个规范的好处。</li><li>想要建立好的人才梯队，需要亲自培养，没有亲自培养就永远达不成想要的人才梯队。受启发了，接下来需要好好思考怎么培养人。</li><li>后面抽空再补充。</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这几天看了张丽俊的《组织的力量》课程，感受特别深的有几点：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;企业文化在企业发展过程中的作用，比想象中大很多，很多习以为常的事情其实背后是有很多故事或者执行过程中遇到很多挑战，甚至都需要很多很强硬的实施方式。联想到之前在推动 git flow 代码分</summary>
+      
+    
+    
+    
+    <category term="成长感悟" scheme="http://chenshuohuang.github.io/categories/%E6%88%90%E9%95%BF%E6%84%9F%E6%82%9F/"/>
+    
+    
+    <category term="组织的力量" scheme="http://chenshuohuang.github.io/tags/%E7%BB%84%E7%BB%87%E7%9A%84%E5%8A%9B%E9%87%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>20230321</title>
